@@ -1,0 +1,13 @@
+# Change 'comments' to true for Disqus comments
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+
+menu:
+- {name: 'About',   url: 'about.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+# - {icon: 'rss-square', link: '/rss-feed.xml'}
+
+# Customize site text
+
+post_date_prefix: 'Written on'
