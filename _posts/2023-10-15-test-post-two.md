@@ -24,7 +24,11 @@ $$
 
 for any measurable $$A \subseteq S.$$
 
-If $$(S, \mathcal{F})=(\mathbb{R}, \mathcal{B})$$ where $$\mathcal{B}$$ is the Borel sigma algebra then we can define $$X$$ by its cumulative distribution function $$F_X(x) = L_X((-\infty, x]) = \mathbb{P}(X \leq x).$$
+If $$(S, \mathcal{F})=(\mathbb{R}, \mathcal{B}(\mathbb{R}))$$ where $$\mathcal{B}$$ is the Borel $$\sigma$$-algebra then we can define $$X$$ by its cumulative distribution function 
+
+$$
+F_X(x) = L_X((-\infty, x]) = \mathbb{P}(X \leq x).
+$$
 
 Suppose now that $$L_X$$ is absolutely continuous with respect to some $$\sigma$$-finite measure on $$(S, \mathcal{F})$$ which we call $$\mu$$. Then the Radon-Nikodym derivative
 
