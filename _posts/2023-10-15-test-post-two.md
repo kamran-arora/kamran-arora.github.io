@@ -11,6 +11,7 @@ We then define the law of a random variable by $$L_X := \mathbb{P} \circ X^{-1}$
 $$
 L_X(A) = \mathbb{P}(X \in A) = \mathbb{P}(X^{-1}(A)) = \mathbb{P}(\{\omega \in \Omega \vert X(\omega) \in A\})
 $$
+
 for any measurable $$A \subseteq S.$$
 
 If in particular $$S=\mathbb{R}$$ with the Borel sigma algebra then we obtain the cumulative distribution function $$F_X(x) = L_X((-\infty, x]) = \mathbb{P}(X \leq x).$$
