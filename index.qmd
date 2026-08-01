@@ -1,0 +1,39 @@
+---
+pagetitle: "Kamran Arora"
+description: "Kamran's personal website"
+---
+
+<main id="main-content" class="site-main" tabindex="-1">
+<section class="intro">
+<h1 id="intro-title">Kamran Arora</h1>
+<p class="role">Maths PhD student at the University of Bath, supervised by Federico Cornalba and Tony Shardlow. Previously, MMathPhys in Maths and Physics at the University of Warwick.</p>
+<p class="positioning">I study problems at the interface between interacting particle systems and stochastic PDEs using tools from numerical and stochastic analysis. </p>
+<ul class="profile-links">
+<li><a href="mailto:ka679@bath.ac.uk">Email</a></li>
+<li><a href="https://github.com/kamran-arora" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+<li><a href="https://scholar.google.co.uk/citations?user=yUj5KPoAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a></li>
+<li><a href="https://www.linkedin.com/in/kamran-arora/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+</ul>
+</section>
+
+<section id="research" class="page-section">
+<div class="section-heading">
+<div>
+<h2 id="research-title">Research and software</h2>
+</div>
+</div>
+
+<div class="work-grid">
+
+<!-- {{< include _includes/work/dgdk.qmd >}}
+{{< include _includes/work/flocking.qmd >}} -->
+{{< include _includes/work/spdeax.qmd >}}
+{{< include _includes/work/revdeq.qmd >}}
+</div>
+</section>
+
+</main>
+
+<footer class="site-footer">
+<p class="footer-note">Last updated: 01/08/2026</p>
+</footer>

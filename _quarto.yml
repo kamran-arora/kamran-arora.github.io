@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  site-url: "https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/"
+  description: "Kamran's personal website"
+  search: false
+
+format:
+  html:
+    minimal: true
+    theme: none
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    code-copy: false
+
+lang: en-GB

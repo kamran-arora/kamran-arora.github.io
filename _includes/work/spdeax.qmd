@@ -1,0 +1,9 @@
+<article class="work-item">
+  <p class="work-type">Software · 2026+</p>
+  <h3 id="spdeax-title">SPDEax</h3>
+  <p>A lightweight JAX + Equinox library of composable spatial discretisations and operators for solving SPDEs with Diffrax.</p>
+  <p class="work-venue"><strong>Kamran Arora</strong></p>
+  <ul class="work-links">
+    <li><a href="https://github.com/kamran-arora/SPDEax" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+  </ul>
+</article>

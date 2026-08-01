@@ -1,0 +1,10 @@
+<article class="work-item">
+  <p class="work-type">Preprint · 2025</p>
+  <h3 id="revdeq-title">Reversible Deep Equilibrium Models</h3>
+  <p>An algebraically reversible formulation of Deep Equilibrium Models that allows for exact gradient computation with constant memory complexity.</p>
+  <p class="work-venue">Sam McCallum, <strong>Kamran Arora</strong> and James Foster</p>
+  <ul class="work-links">
+    <li><a href="https://arxiv.org/abs/2509.12917" target="_blank" rel="noopener noreferrer">arXiv</a></li>
+    <li><a href="https://github.com/sammccallum/reversible-deq" target="_blank" rel="noopener noreferrer">Code</a></li>
+  </ul>
+</article>
