@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  site-url: "https://kamran-arora.github.io/kamran-arora.github.io/"
+  site-url: "https://kamran-arora.github.io/"
   description: "Kamran's personal website"
   search: false
 

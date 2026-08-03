@@ -3,9 +3,20 @@ pagetitle: "Kamran Arora"
 description: "Kamran's personal website"
 ---
 
+<script src="theme.js"></script>
+
 <main id="main-content" class="site-main" tabindex="-1">
 <section class="intro">
 <h1 id="intro-title">Kamran Arora</h1>
+<button class="theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
+<svg class="theme-icon theme-icon-moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+<path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5a8.5 8.5 0 1 0 10.7 10.7Z"></path>
+</svg>
+<svg class="theme-icon theme-icon-sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+<circle cx="12" cy="12" r="3.5"></circle>
+<path d="M12 2v2M12 20v2M4.93 4.93l1.42 1.42M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.42-1.41M17.66 6.34l1.41-1.41"></path>
+</svg>
+</button>
 <p class="role">Maths PhD student at the University of Bath, supervised by Federico Cornalba and Tony Shardlow. Previously, MMathPhys in Maths and Physics at the University of Warwick.</p>
 <p class="positioning">I study problems at the interface between interacting particle systems and stochastic PDEs using tools from numerical and stochastic analysis. </p>
 <ul class="profile-links">
