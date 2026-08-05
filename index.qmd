@@ -46,5 +46,5 @@ description: "Kamran's personal website"
 </main>
 
 <footer class="site-footer">
-<p class="footer-note">Last updated: 01/08/2026</p>
+<p class="footer-note">Last updated: 05/08/2026</p>
 </footer>
