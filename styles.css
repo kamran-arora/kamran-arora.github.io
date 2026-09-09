@@ -2,14 +2,14 @@
 
 :root {
   color-scheme: light;
-  --background: #f5f2eb;
-  --surface: #ebe7dd;
+  --background: #fafafa;
+  --surface: #f0f2f3;
   --text: #1d211f;
   --muted: #5b625e;
   --accent-base: #0c5388;
   --accent: #0c5388;
   --accent-soft: #dce8f2;
-  --border: #cfcac0;
+  --border: #d5dadd;
   --content-width: 54rem;
   --space-section: clamp(2rem, 3.5vw, 3rem);
   --font-sans: "Montserrat", ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
