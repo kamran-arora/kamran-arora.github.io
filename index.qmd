@@ -36,8 +36,8 @@ description: "Kamran's personal website"
 
 <div class="work-grid">
 
-<!-- {{< include _includes/work/dgdk.qmd >}}
-{{< include _includes/work/flocking.qmd >}} -->
+<!-- {{< include _includes/work/flocking.qmd >}} -->
+{{< include _includes/work/dgdk.qmd >}}
 {{< include _includes/work/spdeax.qmd >}}
 {{< include _includes/work/revdeq.qmd >}}
 </div>
@@ -46,5 +46,5 @@ description: "Kamran's personal website"
 </main>
 
 <footer class="site-footer">
-<p class="footer-note">Last updated: 05/08/2026</p>
+<p class="footer-note">Last updated: 09/09/2026</p>
 </footer>

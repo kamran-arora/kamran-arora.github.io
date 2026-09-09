@@ -1,0 +1,10 @@
+<article class="work-item">
+  <p class="work-type">Preprint · 2026</p>
+  <h3 id="dg-dk-title">A discontinuous Galerkin approximation of the Dean-Kawasaki equation</h3>
+  <p>We introduce a spatial dG approximation of the Dean-Kawasaki equation. The key ingredient is a general procedure for discretising multiplicative, divergence-form noise on finite element spaces whilst preserving its cross-variation structure.</p>
+  <p class="work-venue"><strong>Kamran Arora</strong>, Federico Cornalba and Tony Shardlow</p>
+  <ul class="work-links">
+    <li><a href="https://arxiv.org/abs/2609.06681" target="_blank" rel="noopener noreferrer">arXiv</a></li>
+    <li><a href="https://github.com/kamran-arora/dean-kawasaki-DG" target="_blank" rel="noopener noreferrer">Code</a></li>
+  </ul>
+</article>
